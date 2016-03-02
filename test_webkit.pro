@@ -25,3 +25,6 @@ SOURCES += main.cpp \
 
 HEADERS += \
     myobj.h
+
+DISTFILES += \
+    README.md
